@@ -22,4 +22,29 @@ Sentence Analyzer is a simple React app that allows users to input sentences and
 ```bash
 git clone https://github.com/your-username/sentence-analyzer.git
 
+Navigate to the project directory:
+bash
+Copy code
+cd sentence-analyzer
+Install dependencies:
+bash
+Copy code
+npm install
+Run the app:
+bash
+Copy code
+npm start
+Visit http://localhost:3000 in your browser to use the Sentence Analyzer app.
 
+Technologies Used
+React
+JavaScript
+CSS
+Screenshots
+
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Acknowledgments
+This project was created as a learning exercise
